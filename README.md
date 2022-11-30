@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ephemeric
 - 👀 I’m interested in Systems Administration
-- 🌱 I’m currently learning Imperva
-- 💞️ I’m looking to collaborate on \*nix, security
 - 📫 How to reach me ephemeric@icloud.com
 
 <!---

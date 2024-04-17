@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ephemeric
 - 👀 I’m interested in Systems Administration
-- 📫 How to reach me ephemeric@icloud.com
+- 📫 How to reach me ephemeric@demaine.co.za
 
 <!---
 ephemeric/ephemeric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
